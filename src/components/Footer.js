@@ -2,7 +2,7 @@ import React from 'react'
 
 const Footer = () => {
   const footerStyle = {
-    color: 'green',
+    color: '#61AFEF',
     fontStyle: 'italic',
     fontSize: 16
   }
